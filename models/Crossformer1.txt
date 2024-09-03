@@ -1,0 +1,13 @@
+Attention moudle
+1_1 MLP  + Full + Full
+1_2 Full + MLP  + full
+
+1_3 Full + Full + FCross
+
+1_5 MLP  + MLP + Fcross
+
+1_6 MLP  + MLP + Full
+
+1_7 Full + Full + Full
+
+但没有进行LDE模块==》最终实验版本
